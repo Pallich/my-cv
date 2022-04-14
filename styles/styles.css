@@ -1,0 +1,277 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  /* background-color: #fb6d3a; */
+  /* background-color: #f5f7fa; */
+  background-color: #fff;
+  /* width: 1200px;
+  height: 1270px; */
+  /* padding: 10px; */
+  /* padding-bottom: 20px; */
+  height:auto;
+  width:1200px;
+  /* padding-left: 0px; */
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+
+/* p {
+  color: #a8a8a8;
+} */
+
+/* main styles */
+.main {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  height:1530px;
+  /* margin: 0 auto; */
+}
+
+/* main_content styles */
+.main_content {
+  background-color: #fff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  /* margin-left: 30px; */
+  margin-top: 0px;
+  margin-right: 40px;
+  margin-bottom: 20px;
+  padding: 90px 90px;
+  /* padding-bottom: 10px; */
+  /* padding-left: 90px;
+  padding-right: 100px; */
+}
+
+/* about styles */
+.about {
+  background-color: #fff;
+  margin-bottom: 40px;
+  /* margin-top: 0px; */
+}
+
+.about_position {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 17px;
+  margin-bottom: 20px;
+}
+
+.about_name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+}
+
+.main_titles {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.project_numbers {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.project_text,
+.project_link {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.project_link {
+  margin-left: 15px;
+}
+
+.project_brascet {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.project_list {
+  padding: 0px;
+  margin-left: 15px;
+}
+
+/* projects styles */
+.projects {
+  background-color: #fff;
+  margin-bottom: 50px;
+  /* margin-left: 50px; */
+
+  /* margin: 100px 10px 300px 50px; */
+
+  /* со всех сторон равный отступ */
+  /* margin: 50px;  */
+
+  /* 100 сверху и снизу а 50 слева и справа */
+  /* margin: 100px 50px; */
+}
+
+/* work styles */
+.work {
+  background-color: #fff;
+
+  /* Внутренние отступы
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  padding-right: 30px; */
+}
+
+.work_position {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.work_organization {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+}
+
+.period {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin-bottom: 10px;
+}
+
+.line {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;
+}
+
+.work_list {
+  padding: 0px;
+  margin-left: 15px;
+}
+
+.work_list_numbers {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+/* education styles */
+.education {
+  background-color: #fff;
+  /* margin-top: 50px; */
+}
+
+.education_position {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+/* sidebar styles */
+.sidebar {
+  background-color: #1e2939;
+  /* margin-left: 00px; */
+  margin-top: 0px;
+  margin-bottom: 20px;
+  color: #ffffff;
+  size: 14px;
+  font-weight: 300;
+  width: 370px;
+  /* height: auto; */
+  /* padding-top: 40px; */
+}
+
+/* contacts_title styles */
+.sidebar_titles {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 10px;
+  margin-left: 30px;
+  /* font-weight: 700; */
+  /* color: crimson; */
+}
+
+.foto {
+  /* margin-top: 30px; */
+  width: 370px;
+  /* margin-bottom: 50 px; */
+}
+
+/* contacts styles */
+.contacts {
+  /* padding-left: 30px; */
+  /* color: #ffffff; */
+  margin-bottom: 50px;
+  /* font-weight: 400; */
+}
+
+.contact_type {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-left: 30px;
+  margin-right: 5px;
+}
+
+.contact_link {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  opacity: 0.5;
+}
+
+/* tech_skills styles */
+.skills_list {
+  /* padding-left: 00px; */
+  font-weight: 300;
+  color: #fff;
+  margin-left: 10px;
+}
+
+.skills_items {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fb6d3a;
+}
+
+.skills_text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}
